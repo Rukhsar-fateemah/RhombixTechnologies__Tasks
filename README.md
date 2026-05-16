@@ -33,3 +33,26 @@ Engagement & Brand Awareness
 - Budget & Schedule
 - Ad Setup
 - Finish Publishing
+
+# Task 4 - SEO Audit Report
+
+## Overview
+This project contains the SEO audit of selected websites. The audit was completed as part of a digital marketing assignment.
+
+## File Included
+[- Task-4-SEO-Audit.xlsx
+](https://docs.google.com/spreadsheets/d/1ZGO3lCKQPyt6IcVckP8KQqmT-9WfnVP4LH4Z7BMNr94/edit?usp=sharing)
+
+## SEO Factors Analyzed
+The following SEO elements were reviewed:
+- On-page SEO (titles, meta descriptions, headings)
+- Keyword usage
+- Website structure
+- Page speed considerations
+- Mobile responsiveness
+
+## Tools Used
+- Ubbersuggest
+- Pagespeed Insight
+- Microsoft Excel
+- Google Sheets (for initial data collection)
