@@ -56,3 +56,76 @@ The following SEO elements were reviewed:
 - Pagespeed Insight
 - Microsoft Excel
 - Google Sheets (for initial data collection)
+
+# Task 5 - Keyword-Optimized Blog Post
+
+## Objective
+
+The purpose of this task was to create a keyword-optimized blog post that follows SEO best practices, including proper keyword placement, headings, readability, and a clear call to action.
+
+## Topic
+
+**Digital Marketing for Beginners: A Complete Guide to Growing Online**
+
+## Skills Demonstrated
+
+* SEO Content Writing
+* Keyword Research and Integration
+* Blog Formatting
+* Content Structure and Readability
+* Call-to-Action (CTA) Writing
+
+## Key SEO Elements Used
+
+* Primary Keyword: Digital Marketing
+* Secondary Keywords: SEO, Content Marketing, Social Media Marketing, Email Marketing
+* Optimized Headings (H1, H2, H3)
+* Natural Keyword Placement
+* Clear Call-to-Action
+
+## Outcome
+
+This blog post was written to educate beginners about digital marketing while demonstrating fundamental SEO writing techniques used in content marketing.
+
+# Task 6 - Email Marketing Campaign (Mock)
+
+## Objective
+
+The purpose of this task was to create a 3-email marketing campaign for a fictional skincare brand called **GlowNest**. The campaign was designed to demonstrate lead nurturing, customer engagement, and conversion-focused email marketing.
+
+## Brand
+
+**GlowNest** – A fictional skincare brand focused on helping customers achieve healthy, glowing skin through simple and effective skincare products.
+
+## Campaign Structure
+
+### Email 1: Welcome Email
+
+* Introduces the brand
+* Builds trust with new subscribers
+* Encourages exploration of products
+
+### Email 2: Promotional Offer
+
+* Provides a 20% discount for first-time customers
+* Highlights product benefits
+* Encourages immediate action
+
+### Email 3: Follow-Up Email
+
+* Reminds subscribers about the discount offer
+* Creates urgency
+* Increases conversion opportunities
+
+## Skills Demonstrated
+
+* Email Marketing Strategy
+* Customer Journey Mapping
+* Lead Nurturing
+* Copywriting
+* Call-to-Action (CTA) Creation
+* Promotional Campaign Planning
+
+## Outcome
+
+This project demonstrates how businesses can use email marketing to engage subscribers, promote products, and guide customers through the sales funnel.
